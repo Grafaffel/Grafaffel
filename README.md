@@ -6,4 +6,4 @@
 
 # 👀
 
-![Screenshot of ...]([mockup.png](https://res.cloudinary.com/read-cv/image/upload/c_limit,h_322,w_430/dpr_1.0/v1/1/users/nm3IpiejfAfYs3KyfX4NtNVUJZy1/post-c4311a17-0600-4057-8837-13f3d86c99bd.png?_a=ATO2BAA0)https://res.cloudinary.com/read-cv/image/upload/c_limit,h_322,w_430/dpr_1.0/v1/1/users/nm3IpiejfAfYs3KyfX4NtNVUJZy1/post-c4311a17-0600-4057-8837-13f3d86c99bd.png?_a=ATO2BAA0 "Screenshot of ...")
+![Screenshot of ...]([mockup.png](https://res.cloudinary.com/read-cv/image/upload/c_limit,h_322,w_430/dpr_1.0/v1/1/users/nm3IpiejfAfYs3KyfX4NtNVUJZy1/post-c4311a17-0600-4057-8837-13f3d86c99bd.png?_a=ATO2BAA0)https://res.cloudinary.com/read-cv/image/upload/c_limit,h_322,w_430/dpr_1.0/v1/1/users/nm3IpiejfAfYs3KyfX4NtNVUJZy1/post-c4311a17-0600-4057-8837-13f3d86c99bd.png?_a=ATO2BAA0)
